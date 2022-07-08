@@ -62,4 +62,5 @@ netwrok
 int range lo1-2
 ip ospf 1 area 0
 end
+![OSPF NEIGHBOR STATES](https://user-images.githubusercontent.com/106605770/177993098-7e2ecbf9-6ba8-48c3-b60b-df48d1f016cf.jpg)
 
